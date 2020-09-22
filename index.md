@@ -3,12 +3,11 @@ layout: default
 ---
 ## About
 
-I am a postdoctoral researcher at **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
+I am a Research Scientist at **[Novi](https://ch.linkedin.com/in/eleftherios-kokoris-kogias-52836274)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
+I will be joininig IST Austria as an Assistant Professor in September 2021 (positions available).
 
 I received my Ph.D. in Computer Science from  **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)**, 
 and my MEng in Electrical and Computer Engineering from the **[National Technical University of Athens](https://www.ece.ntua.gr/en)**.
-
-I am a member of the **[Initiative for Cryptocurrencies and Contracts (IC3)](https://www.initc3.org/)** and an **[IBM PhD Fellow](http://www.research.ibm.com/university/awards/2018_phd_fellowship_awards.shtml)**
 
 ## Research
 

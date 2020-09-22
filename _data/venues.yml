@@ -43,6 +43,10 @@ HPETs2016:
   year: 2016
   name: 9th Workshop on Hot Topics in Privacy Enhancing Technologies
   url: https://petsymposium.org/2016/spw-mirror/pets-2016/hotpets/
-
+sec2016:
+  slug: CCS
+  year: 2020
+  name: 27th ACM Conference on Computer and Communications Security
+  url: https://www.sigsac.org/ccs/CCS2020/index.html#
 
 

@@ -22,9 +22,10 @@
   authors: lefkok-empty
   url: https://eprint.iacr.org/2019/676
 -
-  title: 'Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation'
+  title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
   authors: lefkok-malkhi-sasha
   url: https://eprint.iacr.org/2019/1015
+  venue: ccs2020
 -
   title: ' Sok: Communication across distributed ledgers'
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
